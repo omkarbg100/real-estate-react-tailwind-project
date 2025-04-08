@@ -2,7 +2,7 @@
 
 Welcome to **Omkar Real Estate**, a sleek and responsive website built to showcase real estate **projects**, provide **contact information**, and share **reviews from satisfied clients**.
 
-![Website Preview](site.jpg)
+![Website Preview](site.png)
 
 🔗 [Live Demo](https://omkar-real-estate.netlify.app/)
 
